@@ -301,4 +301,8 @@ Sector is an independent project and is not affiliated with Le Mans Ultimate.
 Its original code and documentation use the [MIT license](LICENSE); third-party
 assets retain their [own terms and attribution](src/ui/electron/THIRD_PARTY_NOTICES.md).
 
+Want to inspect the code or build it yourself? Read
+[Inspecting and building Sector from source](docs/BUILD_FROM_SOURCE.md), including
+the additional prerequisites for a complete native build.
+
 Interested in contributing? See the [developer guide](CONTRIBUTING.md).

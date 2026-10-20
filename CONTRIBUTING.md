@@ -2,7 +2,8 @@
 
 Sector combines a Windows desktop, telemetry overlays and a native physical-reset
 runtime. Keep changes focused, readable and accompanied by evidence appropriate
-to the component changed. Start with the [source map](docs/SOURCE_LAYOUT.md).
+to the component changed. Start with the [source map](docs/SOURCE_LAYOUT.md) and
+the [source inspection and build guide](docs/BUILD_FROM_SOURCE.md).
 
 ## Branches and commits
 
